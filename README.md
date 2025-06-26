@@ -14,7 +14,7 @@
 
 A web-based visualization of a collaborative AI framework for sensitivity analysis, demonstrating principles of anti-rivalry consciousness infrastructure. This application simulates how multiple, distinct AI estimators can work together to form a consensus on a complex problem.
 
-![Effect Estimation Framework UI](https://storage.googleapis.com/genai-assets/images/apps/effect-estimation-framework.png)
+![Effect Estimation Framework UI](https://github.com/xbard-C42/Effect-Estimation-Framework/blob/main/Effect%20Estimation%20Framework.jpg))
 
 ## Core Features
 
