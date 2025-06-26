@@ -1,0 +1,5 @@
+{
+  "name": "Effect Estimation Framework",
+  "description": "A web-based visualization of a collaborative AI framework for sensitivity analysis. Users can explore different evaluation modes (Parallel, Collaborative, Council, Observatory) and use a Gemini-powered assistant to analyze the results, demonstrating principles of anti-rivalry consciousness infrastructure.",
+  "requestFramePermissions": []
+}
